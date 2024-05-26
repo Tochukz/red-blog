@@ -1,0 +1,16 @@
+{
+  "editor.tabSize": 2,
+  "files.trimTrailingWhitespace": true,
+  "editor.formatOnSave": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "[prisma]": {
+    "editor.formatOnSave": true
+  },
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#5B0344",
+    "titleBar.activeBackground": "#7F045F",
+    "titleBar.activeForeground": "#FFFAFE"
+  }
+}
